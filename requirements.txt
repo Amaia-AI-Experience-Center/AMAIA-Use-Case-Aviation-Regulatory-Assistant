@@ -1,0 +1,16 @@
+python-dotenv
+azure-identity
+uvicorn
+httpx
+starlette
+sse-starlette
+fastapi
+azure-ai-agents
+
+# Extras para laboratorios A2A y herramientas MCP (usados por labs en español)
+a2a-sdk
+requests
+mcp
+semantic-kernel>=1.11.0;
+agent-framework
+
