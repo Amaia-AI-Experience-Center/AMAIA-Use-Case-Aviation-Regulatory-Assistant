@@ -1,4 +1,4 @@
-# AMAIA-Use-Case
+# AMAIA Use Case: Aviation Regulatory Assistant
 
 ## Descripción
 
